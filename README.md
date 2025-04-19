@@ -12,8 +12,9 @@ read trackmania replay inputs
  - Pad
  - Keyboard
 
+
 ## Input:
- ![BlenderInput](https://github.com/user-attachments/assets/4edf888e-4ce0-4a60-851a-e079b3e2c9b4)
+ ![input](https://github.com/user-attachments/assets/70990d0f-fac7-42c7-bf70-4caf53087eff)
 
  ## Custom:
  - customize Inputs colors
