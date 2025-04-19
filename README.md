@@ -20,6 +20,8 @@ gbx_replay_reader_blender
  - customize Inputs colors
  - move panel input
  - scale panel input
+
+   
  ![BlenderInput](https://github.com/user-attachments/assets/547732e8-327a-42d7-b44b-659273e145d7)
 
 
