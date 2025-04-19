@@ -1,0 +1,11 @@
+schema_version = "1.0.0"
+id = "gbxreplayreader"
+name = "GBX Replay Reader"
+version = "1.0.0"
+tagline = "GBX Replay Reader"
+maintainer = "SuperCoby"
+type = "add-on"
+blender_version_min = "4.2.0"
+license = ["SPDX:GPL-2.0-or-later"]
+website = "https://github.com/SuperCoby/"
+copyright = ["SuperCoby (2024)"]
