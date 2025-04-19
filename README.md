@@ -8,7 +8,7 @@
 </a>
 <img src="https://img.shields.io/badge/Trackmania-blender%20Input-brightgreen" alt="Trackmania"/>
 
-gbx_replay_reader_blender
+read trackmania replay inputs
 
 ## Input:
  ![BlenderInput](https://github.com/user-attachments/assets/4edf888e-4ce0-4a60-851a-e079b3e2c9b4)
