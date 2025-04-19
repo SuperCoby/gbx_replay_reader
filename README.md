@@ -9,6 +9,8 @@
 <img src="https://img.shields.io/badge/Trackmania-blender%20Input-brightgreen" alt="Trackmania"/>
 
 read trackmania replay inputs
+-Pad
+-Keyboard
 
 ## Input:
  ![BlenderInput](https://github.com/user-attachments/assets/4edf888e-4ce0-4a60-851a-e079b3e2c9b4)
