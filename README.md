@@ -8,7 +8,7 @@
 </a>
 <img src="https://img.shields.io/badge/Trackmania-blender%20Input-brightgreen" alt="Trackmania"/>
 
-read trackmania replay inputs
+read trackmania replay inputs (only trackmania forever)
  - Pad
  - Keyboard
 
