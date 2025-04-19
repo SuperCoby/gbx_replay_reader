@@ -13,12 +13,15 @@
 
 gbx_replay_reader_blender
 
-## Documentation:
+## Input:
+ ![BlenderInput](https://github.com/user-attachments/assets/4edf888e-4ce0-4a60-851a-e079b3e2c9b4)
+
+ ## Custom:
  - customize Inputs colors
  - move panel input
  - scale panel input
+ ![BlenderInput](https://github.com/user-attachments/assets/547732e8-327a-42d7-b44b-659273e145d7)
 
- ![BlenderInput](https://github.com/user-attachments/assets/4edf888e-4ce0-4a60-851a-e079b3e2c9b4) gif
- ![BlenderInput](https://github.com/user-attachments/assets/547732e8-327a-42d7-b44b-659273e145d7) jpg
+
 
 
