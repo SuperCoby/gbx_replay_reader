@@ -3,11 +3,8 @@
 </h1>
 
 <p align="center">
-<a href="https://tmnf.exchange/threadshow/6517627?page=auto" target="blank">
+<a href="https://www.blender.org/" target="blank">
 <img src="https://img.shields.io/badge/Blender-4.1-2" alt="Blender 4.1" />
-</a>
-<a href="https://discord.gg/5CAneN7ttZ" target="blank">
-<img src="https://img.shields.io/badge/Discord%20-official-brightgreen" alt="Discord Unlimiter"/>
 </a>
 <img src="https://img.shields.io/badge/Trackmania-blender%20Input-brightgreen" alt="Trackmania"/>
 
